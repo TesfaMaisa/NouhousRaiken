@@ -1,0 +1,17 @@
+SQL kuva löytyy eri kansiosta
+
+1. Hae kaikki tuotteet
+
+Vastaus:
+
+2. Hae kallein tuote 
+
+Vastaus:
+
+3. Hae tuotteet joiden toimittaja on Karkki Oy
+
+Vastaus:
+
+4. Listaa jokainen yksilöllinen asiakas
+
+Vastaus:
